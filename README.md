@@ -2,11 +2,13 @@
 IS590PR Spring 2019. Top-level repository for student project forks
 
 The detailed instructions for the Final Projects will be in the course Moodle.
+
 Team members:
 Tianqi Chen
 Yanan Shen
 
 Title: 
+
 Analysis of the factors affecting the trend of talents in the world and the success rate of individual immigration
 
 Part 2 
