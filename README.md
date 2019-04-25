@@ -138,3 +138,8 @@ Results:
 All sources used: 
 https://www.migrationpolicy.org/research/contributions-high-skilled-immigrants
 https://datacatalog.worldbank.org/dataset/world-bank-group-linkedin-dashboard-dataset
+
+
+Our Pre-recorded Video link:
+
+https://youtu.be/o5DSpW1s1K4
