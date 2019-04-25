@@ -12,6 +12,7 @@ Title:
 Analysis of the factors affecting the trend of talents in the world and the success rate of individual immigration
 
 Part 1 
+
 Purpose:
 
 The influencing factors of immigration have been controversial. Thus, we are curious about whether the fluctuation of the Employment rate will affect the net migration rate. This section we analyzed the correlation between Net Migration Rate and Employment Growth Rate and the trend of 2015 to 2018 from six industry classifications. Moreover, a comparison is made between developing country - China and developed country - the United States.
