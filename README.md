@@ -95,11 +95,14 @@ Design reasoning:
 1.Merge 4 dataset (industry migration-- industry needs skills--skill migration--skill penetration rate)
   Be more convenient to establish the relationship between the skill penetration rate and net migration rate of skill and
   industry migration.
+
 2.Calculate the difference 
   This step is to calculate the difference between the 2015 net per 10K  and 2018 net per 10K  and the difference between the
   2015 skill penetration rate and 2018 skill penetration rate to know the net migration increase or decrease.
   Net per 10k: with different industry section and name, the net migration rate of skill migration.
+
 3.Drawing plot by using calculated difference value
+
 4.Find the oulier of skill penetration rate difference 
   This step is based on the third step. The outlier could be the further demonstration of hypothesis 
   
@@ -127,6 +130,7 @@ Analytical Summary of our findings:
   operation
 
 Results:
+  
   •The skill penetration rate has the positive relationship with skill migration rate
   
   •The skill penetration rate has the positive relationship with industry migration rate
