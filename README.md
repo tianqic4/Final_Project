@@ -85,7 +85,7 @@ Part 2
 Purpose:
 
 For this part, we mainly focus on how skill penetration rate impacts the net migration rate of skill migration and industry
-migration from 2015 to 2018.
+migration from 2015 to 2018.The target is the whole world.
 
 Hypotheses:
 
@@ -131,9 +131,9 @@ Results:
   
   •The skill penetration rate has the positive relationship with industry migration rate
   
-  •Higher skill penetration rate != More opportunity to success
+  •Higher skill penetration rate != More opportunity to successfully immigrate
   
-  •Lower skill penetration rate ≈ Lower opportunity to success
+  •Lower skill penetration rate ≈ Lower opportunity to successfully immigrate 
 
 All sources used: 
 https://www.migrationpolicy.org/research/contributions-high-skilled-immigrants
