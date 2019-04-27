@@ -1,17 +1,17 @@
 # Final_Project
-##Title: 
+## Title: 
 
-###Analysis of the factors affecting the trend of talents in the world and the success rate of individual immigration
+### Analysis of the factors affecting the trend of talents in the world and the success rate of individual immigration
 
-##Team members:
+## Team members:
 Tianqi Chen
 Yanan Shen
 
 
 
-#Part 1 
+# Part 1 
 
-##Purpose:
+## Purpose:
 
 The influencing factors of immigration have been controversial. Thus, we are curious about whether the fluctuation of the Employment rate will affect the net migration rate. This section we analyzed the correlation between Net Migration Rate and Employment Growth Rate and the trend of 2015 to 2018 from six industry classifications. Moreover, a comparison is made between developing country - China and developed country - the United States.
 
@@ -21,34 +21,34 @@ Does the Industry Net Migration Rate will be affected by the Industry Employment
 Is the trend of Industry Net Immigration Rate similar between China and the United States? (2015 - 2018)
 Is the trend of Industry Employment Growth Rate similar between China and the United States? (2015 - 2018)
 
-##Hypotheses: 
+## Hypotheses: 
 As the Employment Growth Rate increases, the Net Immigration Rate of the industry will also rise. (2015 - 2018)
 The trend of Industry Net Immigration Rate is not similar between China and the United States. (2015 - 2018)
 The trend of Industry Employment Growth Rate is similar between China and the United States.  (2015 - 2018)
 
-##Design reasoning: 
+## Design reasoning: 
 
-###1.Data preparation and Data cleaning 
+### 1.Data preparation and Data cleaning 
 We sorted out the data for each dataset separately. 
 We merged 2 datasets (Employment Growth from Industry Transition
 & Industry Migration) and removed major errors and inconsistencies. 
-###2.Data processing
+### 2.Data processing
 We unified data form which can facilitate subsequent analysis.
 We Found the different industry names, which were included in each industry classification and got industry data from the same industry classification but under different countries (China & United States) from 2015 to 2018.
-###3.Creating bar graph
+### 3.Creating bar graph
 Comparison of Industry Net Migration Rate of China in 2015 and 2018
 Comparison of Industry Net Migration Rate of United States in 2015 and 2018
 Comparison of Industry Employment Growth Rate of China in 2015 and 2018
 Comparison of Industry Employment Growth Rate of United States in 2015 and 2018
 
-##Results:
+## Results:
 
 We selected two countries for comparison, China and the United States. China is a developing country and a non-immigrant country. However, The United States is a developed country, and its immigration policy is more lenient than that of China. It belongs to an immigrant country and has a diverse culture.
 For the first hypothesis, we found that the net industry immigration rate and the industry employment growth rate  in the U.S. are positively correlated between 2015 and 2018, in addition to two industry classification (Arts, entertainment and recreation and Manufacturing).  However, China has no obvious correlation.
 For the second hypothesis, the trend of Industry Net Immigration Rate is similar between China and the United States (2015 - 2018), in addition to manufacturing. 
 For the third hypothesis, the trend of Industry Employment Growth Rate is basically opposite between China and the United States (2015 - 2018), in addition to Financial and insurance activities. 
 
-##Analytical Summary of our findings:
+## Analytical Summary of our findings:
 For the correlation between Industry Net Immigration Rate and Industry Employment Growth Rate: 
 We found that there is a significant difference in the correlation between countries, and we need to consider whether the country is a large immigrant country or whether the immigration policy is flexible.
 
