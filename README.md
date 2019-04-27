@@ -1,7 +1,7 @@
 # Final_Project
 ## Title: 
 
-### Analysis of the factors affecting the trend of talents in the world and the success rate of individual immigration
+### Analysis of the factors affecting the trend of talents in the world and the success rate of individual immigration. (mainly focus on Industry Employment Growth Rate and Skill Penetration Rate)
 
 ## Team members:
 
