@@ -15,15 +15,19 @@ Yanan Shen
 
 The influencing factors of immigration have been controversial. Thus, we are curious about whether the fluctuation of the Employment rate will affect the net migration rate. This section we analyzed the correlation between Net Migration Rate and Employment Growth Rate and the trend of 2015 to 2018 from six industry classifications. Moreover, a comparison is made between developing country - China and developed country - the United States.
 
-In this part, we will answer the following questions:
+###### In this part, we will answer the following questions:
 
 Does the Industry Net Migration Rate will be affected by the Industry Employment Growth Rate?
+
 Is the trend of Industry Net Immigration Rate similar between China and the United States? (2015 - 2018)
+
 Is the trend of Industry Employment Growth Rate similar between China and the United States? (2015 - 2018)
 
 ## Hypotheses: 
 As the Employment Growth Rate increases, the Net Immigration Rate of the industry will also rise. (2015 - 2018)
+
 The trend of Industry Net Immigration Rate is not similar between China and the United States. (2015 - 2018)
+
 The trend of Industry Employment Growth Rate is similar between China and the United States.  (2015 - 2018)
 
 ## Design reasoning: 
