@@ -4,9 +4,9 @@
 ### Analysis of the factors affecting the trend of talents in the world and the success rate of individual immigration
 
 ## Team members:
-Tianqi Chen
-Yanan Shen
 
+Tianqi Chen: All of Part 2
+Yanan Shen: All of Part 1
 
 
 # Part 1 
@@ -15,7 +15,7 @@ Yanan Shen
 
 The influencing factors of immigration have been controversial. Thus, we are curious about whether the fluctuation of the Employment rate will affect the net migration rate. This section we analyzed the correlation between Net Migration Rate and Employment Growth Rate and the trend of 2015 to 2018 from six industry classifications. Moreover, a comparison is made between developing country - China and developed country - the United States.
 
-###### In this part, we will answer the following questions:
+##### In this part, we will answer the following questions:
 
 Does the Industry Net Migration Rate will be affected by the Industry Employment Growth Rate?
 
@@ -106,7 +106,17 @@ Skill peneration rate has positive correlation relationship with net migration o
 ##### 3.Drawing plot by using calculated difference value
 
 ##### 4.Find the oulier of skill penetration rate difference 
-  This step is based on the third step. The outlier could be the further demonstration of hypothesis 
+  This step is based on the third step. The outlier could be the further demonstration of hypothesis.
+  
+## Results:
+  
+  •The skill penetration rate has the positive relationship with skill migration rate
+  
+  •The skill penetration rate has the positive relationship with industry migration rate
+  
+  •Higher skill penetration rate != More opportunity to successfully immigrate
+  
+  •Lower skill penetration rate ≈ Lower opportunity to successfully immigrate  
   
 ## Analytical Summary of our findings:
 
@@ -130,16 +140,6 @@ Skill peneration rate has positive correlation relationship with net migration o
   For the lower outlier, it is totally different, we can see that most point is below 0 which means the skill rate is lower 
   and the net migration is lower which is the positive relationship,especially people who have skill on manufacturing 
   operation
-
-## Results:
-  
-  •The skill penetration rate has the positive relationship with skill migration rate
-  
-  •The skill penetration rate has the positive relationship with industry migration rate
-  
-  •Higher skill penetration rate != More opportunity to successfully immigrate
-  
-  •Lower skill penetration rate ≈ Lower opportunity to successfully immigrate 
 
 ## All sources used: 
 https://www.migrationpolicy.org/research/contributions-high-skilled-immigrants
